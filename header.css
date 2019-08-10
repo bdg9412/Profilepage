@@ -1,0 +1,13 @@
+.header-one{
+    display: flex;
+    justify-content: space-between;
+    height:40px;
+}
+.header-two{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.header-two i{
+    color:black;
+}

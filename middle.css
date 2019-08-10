@@ -1,0 +1,22 @@
+.middle{
+    display: flex;
+    height:300px;
+    flex-direction: column;
+    justify-content:flex-end;
+    /*flex-end를 해야 밑으로 감!*/
+    align-items: center;
+    padding: 20px 0px;
+}
+.kitty{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.middle-name{
+    font-size: 30px;
+    color:#4498DE;
+    font-weight: 900;
+}
+.middle-state{
+    opacity: 0.7;
+}

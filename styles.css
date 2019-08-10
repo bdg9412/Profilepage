@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
+@import "middle.css";
+@import "header.css";
+@import "bottom.css";
+@import "status.css";
+* {
+  box-sizing: border-box;
+}
+.wholebody{
+    width:400px;
+    height:100%;
+    padding: 0px 30px;
+}
+

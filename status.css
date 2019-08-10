@@ -1,0 +1,11 @@
+.statusbar{
+    height: 80px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 70px;
+    padding-left: 20px;
+}
+
+
